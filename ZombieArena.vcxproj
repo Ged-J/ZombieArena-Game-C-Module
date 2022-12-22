@@ -151,6 +151,7 @@
   <ItemGroup>
     <ClCompile Include="bullet.cpp" />
     <ClCompile Include="createBackground.cpp" />
+    <ClCompile Include="pickup.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="textureHolder.cpp" />
     <ClCompile Include="zombie.cpp" />
@@ -159,6 +160,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bullet.h" />
+    <ClInclude Include="pickup.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="textureHolder.h" />
     <ClInclude Include="zombie.h" />
